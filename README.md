@@ -1,9 +1,9 @@
 # GreenLabs  Aula #11 - Modo Debug! A arte de encontrar e resolver bugs - parte 1
 Esta é a aula #11 da Série GreenLabs/GreenfootBR/DFJUG. 
-Nesta aula nós vamos utilizar o erro que encontramos nas aulas anteriores para apresentar uma nova técnica que utilizamos para visualizar, literalmente, o passo a passo da execuçção dos códigos e assim identificar erros complexos em nossos programas. Vejam essas novas dicas e Divirtam-se! :D 
+Nesta aula nós vamos utilizar o erro que encontramos nas aulas anteriores para apresentar uma nova técnica que utilizamos para visualizar, literalmente, o passo a passo da execução dos códigos e assim identificar erros complexos em nossos programas. Vejam essas novas dicas e Divirtam-se! :D 
 
 ## Conteúdo | Summary
-* Apresentação da ferramente de Debug do Greenfoot.
+* Apresentação da ferramenta de Debug do Greenfoot.
 * Explicação detalhada sobre cada uma das opções e também como navegar entre elas.
 * Diversas explicações sobre lógicas e dicas para resolução de problemas.
 
